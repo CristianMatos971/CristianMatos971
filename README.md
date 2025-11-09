@@ -1,11 +1,20 @@
-## Hi there 👋
-- I’m currently working on becoming a skillful developer that can create and mantain complex algorithms so that I can elevate my level.
-- I’m currently cursing Information Systems in UFGD - Brazil/MS.
-- I’m looking to collaborate on any projects that I could so that I learn more.
-- I’m looking for help with getting more experience.
-- How to reach me: ernandescristianfilho@gmail.com
-- Fun fact: I'm very good at chess...
+# Cristian Matos
 
+### Back-End Developer | Java & Spring Boot | SQL | APIs REST
 
+Sou estudante de Sistemas de Informação e desenvolvedor back-end com foco em **Java + Spring Boot**. Tenho experiência prática na criação de APIs REST, integração com bancos de dados SQL e versionamento de código com Git.
+
+Estou construindo projetos pessoais para aprimorar meu domínio em desenvolvimento back-end e boas práticas de engenharia de software.
+
+### 🔧 Tecnologias
+- **Java | Spring Boot**
+- **REST APIs | JSON | Postman**
+- **SQL | MySQL | PostgreSQL**
+- **Git & GitHub**
+- HTML, CSS, JavaScript (básico para consumo de APIs)
+
+### 📫 Contato
+emandescristianfilho@gmail.com  
+LinkedIn: https://www.linkedin.com/in/cristianmatos/
 
 
