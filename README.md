@@ -1,19 +1,35 @@
 # Cristian Matos
 
-### Back-End Developer | Java & Spring Boot | SQL | APIs REST
+### Fullstack Developer | Java & Spring Boot | React | PostgreSQL | REST APIs
 
-Sou estudante de Sistemas de Informação e desenvolvedor back-end com foco em **Java + Spring Boot**. Tenho experiência prática na criação de APIs REST, integração com bancos de dados SQL e versionamento de código com Git.
+Sou estudante de Sistemas de Informação e desenvolvedor fullstack focado em **Java + Spring Boot** no backend e **React** no frontend.  
+Tenho experiência prática na criação de APIs REST, autenticação com JWT, integração com PostgreSQL/JPA, além do desenvolvimento de interfaces reativas com React.
 
-Estou construindo projetos pessoais para aprimorar meu domínio em desenvolvimento back-end e boas práticas de engenharia de software.
+Atualmente desenvolvo projetos pessoais de ponta a ponta para aprimorar minhas habilidades em arquitetura limpa, melhores práticas e deploy em produção.
+
+---
 
 ### Tecnologias
-- **Java | Spring Boot**
-- **REST APIs | JSON | Postman**
-- **SQL | MySQL | PostgreSQL**
-- **Git & GitHub**
-- HTML, CSS, JavaScript (básico para consumo de APIs)
 
-### Contato
-emandescristianfilho@gmail.com  
-LinkedIn: https://www.linkedin.com/in/cristianmatos/
+#### **Backend**
+- Java • Spring Boot  
+- REST APIs • JSON  
+- Spring Security • JWT  
+- JPA • Hibernate  
+- PostgreSQL
+
+#### **Frontend**
+- React • JavaScript  
+- HTML • CSS • Tailwind
+
+#### **Ferramentas & DevOps**
+- Git & GitHub  
+- Postman  
+- Deploy: Vercel (frontend) • Render (backend)
+
+---
+
+### 📫 Contato
+**Email:** cristianernandes971@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/cristian-e-f-matos-342371351/  
 
